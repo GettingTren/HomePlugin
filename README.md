@@ -1,11 +1,7 @@
 
 # *SpawnPlugin*
 
-l
-
-## Description
-
-l
+Lorem ipsum
 
 ## Requirements
 
