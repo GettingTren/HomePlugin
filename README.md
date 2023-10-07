@@ -1,7 +1,8 @@
 
 # *HomePlugin*
 
-Lorem ipsum
+This is a simple **home plugin** that lets you **set and teleport to a location** using the /sethome command and the /home command.
+You can also **specify a custon name for your home** and create **multiple homes**. This is **not a complete plugin**, in fact there could be **more features**, like in the [**Essentials Plugin**](https://www.spigotmc.org/resources/essentialsx.9089/).
 
 ## Requirements
 
