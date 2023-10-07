@@ -1,0 +1,16 @@
+name: HomePlugin
+version: '${project.version}'
+main: me.ilgroggo.homeplugin.HomePlugin
+api-version: '1.20'
+commands:
+  sethome:
+    description: Use this command to set your home.
+    usage: /sethome <name for your home>
+    aliases:
+      - seth
+
+  home:
+    description: Use this command to teleport to your home.
+    usage: /home <home name>
+    aliases:
+      - h
